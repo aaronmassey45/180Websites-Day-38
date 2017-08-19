@@ -1,0 +1,23 @@
+body {
+  background-color: lightgrey;
+  min-height: 100%;
+  transition: background-color 1s linear;
+}
+.navbar {
+  border-radius: 0;
+}
+.loading {
+  font-weight: 400;
+  margin: 0 auto;
+}
+.btn-primary {
+  margin-top: 25px;
+  border-bottom: 5px solid #1e4d99;
+}
+.btn-primary:active {
+  margin-top: 27px;
+  border-bottom: none;
+}
+.btn-primary:active, .btn-primary:focus {
+  outline-style:none;
+}

@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: darkgreen;
+}
+
+.colorBlack {
+  color: black;
+}
+
+h2 a:link, h2 a:visited, h2 a:active {
+  padding: 2%;
+  border-radius: 50%;
+  background: white;
+  color: darkgreen;
+}
+
+.imgHeight {
+  height: 50px;
+  float: left;
+  border: 1px solid black;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.table {
+  background-color: grey;
+}
+
+.table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: gold;
+}
+
+th {
+  text-align: center;
+}
